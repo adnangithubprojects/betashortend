@@ -1,0 +1,7 @@
+.succes {
+  @apply w-[150px] sm:w-[250px] md:w-[500px]   outline-none py-[6px] sm:py-[10px] px-2  border-y-2   border-l-2 border-gray-600;
+}
+
+.wrong {
+  @apply w-[150px] sm:w-[250px] md:w-[500px]   outline-none py-[6px] sm:py-[10px] px-2  border-y-2   border-l-2 border-red-600;
+}
